@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/home/kavia/workspace/code-generation/financeflow-32435-e40c95d5/expense_frontend_workspace/expense_frontend"
+}

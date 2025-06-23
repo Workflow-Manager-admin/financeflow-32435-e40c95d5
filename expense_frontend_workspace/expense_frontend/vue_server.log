@@ -1,0 +1,11 @@
+
+> vue-kavia@0.0.0 dev
+> vite dev --host 0.0.0.0 --port 3000
+
+
+  VITE v6.1.0  ready in 638 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.17.0.2:3000/
+  ➜  Vue DevTools: Open http://localhost:3000/__devtools__/ as a separate window
+  ➜  Vue DevTools: Press Alt(⌥)+Shift(⇧)+D in App to toggle the Vue DevTools
